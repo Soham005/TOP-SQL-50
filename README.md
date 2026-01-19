@@ -1,6 +1,6 @@
 # 🗄️ Top SQL 50
 
-![Top SQL 50](Top_SQL_50.gif)
+![Top SQL 50]('/Users/soham/Downloads/Badge - LeetCode_files/Top_SQL_50.gif')
 
 ## 📌 About This Repository
 
